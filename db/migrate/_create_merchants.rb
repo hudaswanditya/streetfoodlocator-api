@@ -1,1 +1,0 @@
-Merchant.create(name: "Nasi Uduk Pak Jaja", owner: 'Jaja', branch_count: 1, phone: '+628567876546', location: 'Jl. Sindangrasa 3 No.5 Cianjur, Jawa Barat', whatsapp: '', instagram: '')
