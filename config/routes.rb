@@ -8,5 +8,7 @@ Rails.application.routes.draw do
     end
   end
 
+  resources :merchants
+
   root 'merchants#index'
 end
